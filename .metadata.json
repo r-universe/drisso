@@ -1,14 +1,1 @@
-[
-  {
-    "package": "EDASeq"
-  },
-  {
-    "package": "mbkmeans"
-  },
-  {
-    "package": "RUVSeq"
-  },
-  {
-    "package": "zinbwave"
-  }
-]
+[]
