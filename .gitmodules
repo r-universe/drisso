@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EDASeq"]
+	path = EDASeq
+	url = https://github.com/drisso/edaseq
+	shallow = true
+	registered = true
+[submodule "mbkmeans"]
+	path = mbkmeans
+	url = https://github.com/drisso/mbkmeans
+	shallow = true
+	registered = true
+[submodule "RUVSeq"]
+	path = RUVSeq
+	url = https://github.com/drisso/ruvseq
+	shallow = true
+	registered = true
+[submodule "zinbwave"]
+	path = zinbwave
+	url = https://github.com/drisso/zinbwave
+	shallow = true
+	registered = true
