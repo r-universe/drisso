@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "awst"]
+	path = awst
+	url = https://github.com/drisso/awst
+	shallow = true
+	registered = true
 [submodule "EDASeq"]
 	path = EDASeq
 	url = https://github.com/drisso/edaseq
