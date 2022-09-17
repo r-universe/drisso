@@ -7,11 +7,5 @@
   },
   {
     "package": "mbkmeans"
-  },
-  {
-    "package": "RUVSeq"
-  },
-  {
-    "package": "zinbwave"
   }
 ]
