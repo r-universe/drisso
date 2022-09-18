@@ -13,8 +13,8 @@
 	url = https://github.com/drisso/edaseq
 	shallow = true
 	registered = true
-[submodule "mbkmeans"]
-	path = mbkmeans
-	url = https://github.com/drisso/mbkmeans
+[submodule "zinbwave"]
+	path = zinbwave
+	url = https://github.com/drisso/zinbwave
 	shallow = true
 	registered = true
