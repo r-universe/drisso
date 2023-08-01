@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "awst"]
-	path = awst
-	url = https://github.com/drisso/awst
 [submodule "EDASeq"]
 	path = EDASeq
 	url = https://github.com/drisso/edaseq
-[submodule "mbkmeans"]
-	path = mbkmeans
-	url = https://github.com/drisso/mbkmeans
 [submodule "RUVSeq"]
 	path = RUVSeq
 	url = https://github.com/drisso/ruvseq
+[submodule "awst"]
+	path = awst
+	url = https://github.com/drisso/awst
+[submodule "mbkmeans"]
+	path = mbkmeans
+	url = https://github.com/drisso/mbkmeans
 [submodule "zinbwave"]
 	path = zinbwave
 	url = https://github.com/drisso/zinbwave
